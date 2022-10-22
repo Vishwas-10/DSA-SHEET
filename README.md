@@ -183,7 +183,7 @@
 
 |  #  |      Title     |   Code   | Difficulty                   
 |-----|----------------|----------|-------------
-|1|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ||:green_square:
+|1|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/1.ClimbingStairs.cpp)|:green_square:
 
 
 ## Trie
