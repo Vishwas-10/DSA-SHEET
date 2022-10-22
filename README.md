@@ -221,7 +221,7 @@
   <img src="https://contrib.rocks/image?repo=Vishwas-10/DSA-SHEET" />
 </a>
 
-## Adding your name in the [contributors.md](https://github.com/Vishwas-10/DSA-SHEET/blob/main/contributors.md) file [After your contribution is accepted]
+## Adding your name in the [Contributors](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Contributors.md) file [After your contribution is accepted]
 
 1. Open the contributors.md file
 
