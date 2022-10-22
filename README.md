@@ -35,36 +35,36 @@
 
 ## Mathematics
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                 
+|-----|----------------|----------|-------------
 |1|
 
 ## Bits Manipulation
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty             
+|-----|----------------|----------|-------------
 |1|
 
 
 ## Recursion
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty          
+|-----|----------------|----------|-------------
 |1|
 
 
 ## Arrays
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                   
+|-----|----------------|----------|-------------
 |1|
 
 
 
 ## Searching
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                    
+|-----|----------------|----------|-------------
 |1|
 
 
@@ -72,8 +72,8 @@
 
 ## Sorting
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                    
+|-----|----------------|----------|-------------
 |1|
 
 
@@ -81,23 +81,23 @@
 
 ## Matrix
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                    
+|-----|----------------|----------|-------------
 |1|
 
 
 ## Hashing
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                   
+|-----|----------------|----------|-------------
 |1|
 
 
 
 ## String
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                   
+|-----|----------------|----------|-------------
 |1|
 
 
@@ -105,8 +105,8 @@
 
 ## Linked List
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                
+|-----|----------------|----------|-------------
 |1|
 
 
@@ -115,15 +115,15 @@
 
 ## Stack
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                   
+|-----|----------------|----------|-------------
 |1|
 
 
 ## Queue
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                    
+|-----|----------------|----------|-------------
 |1|
 
 
@@ -132,32 +132,32 @@
 ## Tree
 
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                  
+|-----|----------------|----------|-------------
 |1|
 
 
 
 ## Binary Search Tree
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                    
+|-----|----------------|----------|-------------
 |1|
 
 
 
 ## Heap
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                   
+|-----|----------------|----------|-------------
 |1|
 
 
 
 ## Graph
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                   
+|-----|----------------|----------|-------------
 |1|
 
 
@@ -166,31 +166,37 @@
 
 ## Greedy
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                    
+|-----|----------------|----------|-------------
 |1|
 
 
 
 ## Backtracking
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                    
+|-----|----------------|----------|-------------
 |1|
 
 
 ## Dynamic Programming
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
-|1|
+|  #  |      Title     |   Code   | Difficulty                   
+|-----|----------------|----------|-------------
+|1|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/1.ClimbingStairs.cpp)|:green_square:
 
 
 ## Trie
 
-|  #  |      Title     |   Code   | Difficulty  | Tag                   
-|-----|----------------|----------|-------------|--------
+|  #  |      Title     |   Code   | Difficulty                    
+|-----|----------------|----------|-------------
 |1|
+
+
+
+![GitHub PR Open](https://img.shields.io/github/issues-pr/Vishwas-10/DSA-SHEET?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/Vishwas-10/DSA-SHEET?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/Vishwas-10/DSA-SHEET?style=for-the-badge&color=brightgreen)
 
 ## Our Contributors 
 
@@ -198,7 +204,7 @@
   <img src="https://contrib.rocks/image?repo=Vishwas-10/DSA-SHEET" />
 </a>
 
-## Adding your name in the [contributors.md]() file [After your contribution is accepted]
+## Adding your name in the [contributors.md](https://github.com/Vishwas-10/DSA-SHEET/blob/main/contributors.md) file [After your contribution is accepted]
 
 1. Open the contributors.md file
 
@@ -212,7 +218,13 @@
 
 5. Commit the changes. 
 
-6. Make the Pull Request. 
+6. Make the Pull Request.
+
+# Code of Conduct
+
+`CTRL+click` the GIF below
+
+<p><a href="https://github.com/Vishwas-10/DSA-SHEET/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
 
 ***Do star, fork and share the repo to show your support, it would help others too!***
 <br>
