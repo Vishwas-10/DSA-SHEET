@@ -218,7 +218,13 @@
 
 5. Commit the changes. 
 
-6. Make the Pull Request. 
+6. Make the Pull Request.
+
+# Code of Conduct
+
+`CTRL+click` the GIF below
+
+<p><a href="https://github.com/Vishwas-10/DSA-SHEET/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
 
 ***Do star, fork and share the repo to show your support, it would help others too!***
 <br>
