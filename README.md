@@ -184,6 +184,10 @@
 |  #  |      Title     |   Code   | Difficulty                   
 |-----|----------------|----------|-------------
 |1|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/1.ClimbingStairs.cpp)|:green_square:
+|2|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/2.MinCostClimbingStairs.cpp)|:green_square:
+|3|[House Robber](https://leetcode.com/problems/house-robber/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/3.HouseRobber.cpp)|:orange_square:
+|4|[HouseRobberII](https://leetcode.com/problems/house-robber-ii/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/4.HouseRobberII.cpp)|:orange_square:
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/5.LongestPalindromicSubstring.cpp)|:orange_square:
 
 
 ## Trie
