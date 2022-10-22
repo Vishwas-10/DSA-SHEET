@@ -192,13 +192,19 @@
 |-----|----------------|----------|-------------|--------
 |1|
 
+
+
+![GitHub PR Open](https://img.shields.io/github/issues-pr/Vishwas-10/DSA-SHEET?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/Vishwas-10/DSA-SHEET?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/Vishwas-10/DSA-SHEET?style=for-the-badge&color=brightgreen)
+
 ## Our Contributors 
 
 <a href="https://github.com/Vishwas-10/DSA-SHEET/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Vishwas-10/DSA-SHEET" />
 </a>
 
-## Adding your name in the [contributors.md]() file [After your contribution is accepted]
+## Adding your name in the [contributors.md](https://github.com/Vishwas-10/DSA-SHEET/blob/main/contributors.md) file [After your contribution is accepted]
 
 1. Open the contributors.md file
 
