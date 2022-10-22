@@ -5,3 +5,5 @@
 2. [lil-spooky](https://github.com/lil-spooky)
 
 3. [Pragya Sapkota](https://github.com/Pragya2056)
+
+4. [Atique Akhtar](https://github.com/atiqueakhtar)
