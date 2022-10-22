@@ -107,7 +107,7 @@
 
 |  #  |      Title     |   Code   | Difficulty                
 |-----|----------------|----------|-------------
-|1|
+|1|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Linked%List/1.Reverse_Nodes_in_k-Group.cpp)|:red_square:
 
 
 
