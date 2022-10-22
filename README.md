@@ -192,6 +192,28 @@
 |-----|----------------|----------|-------------|--------
 |1|
 
+## Our Contributors 
+
+<a href="https://github.com/Vishwas-10/DSA-SHEET/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Vishwas-10/DSA-SHEET" />
+</a>
+
+## Adding your name in the [contributors.md]() file [After your contribution is accepted]
+
+1. Open the contributors.md file
+
+2. Mind your number. 
+
+3. Do not change the detail of any other contributors. 
+
+4. Follow the format - {1. [Your name](link to your gitHub profile)} at the last of the file.
+
+4. Save it.
+
+5. Commit the changes. 
+
+6. Make the Pull Request. 
+
 ***Do star, fork and share the repo to show your support, it would help others too!***
 <br>
 :heart: ***Thank you all for Forking this repository*** :heart:
