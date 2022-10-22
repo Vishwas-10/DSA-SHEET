@@ -186,8 +186,13 @@
 |1|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/1.ClimbingStairs.cpp)|:green_square:
 |2|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/2.MinCostClimbingStairs.cpp)|:green_square:
 |3|[House Robber](https://leetcode.com/problems/house-robber/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/3.HouseRobber.cpp)|:orange_square:
-|4|[HouseRobberII](https://leetcode.com/problems/house-robber-ii/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/4.HouseRobberII.cpp)|:orange_square:
+|4|[House Robber II](https://leetcode.com/problems/house-robber-ii/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/4.HouseRobberII.cpp)|:orange_square:
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/5.LongestPalindromicSubstring.cpp)|:orange_square:
+|6|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/6.PalindromicSubstrings.cpp)|:orange_square:
+|7|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/7.MaximumProductSubarray.cpp)|:orange_square:
+|8|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/8.LongestIncreasingSubsequence.cpp)|:orange_square:
+|9|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) |[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Dynamic%20Programming/9.LongestCommonSubsequence.cpp)|:orange_square:
+
 
 
 ## Trie
