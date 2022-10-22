@@ -168,7 +168,8 @@
 
 |  #  |      Title     |   Code   | Difficulty                    
 |-----|----------------|----------|-------------
-|1|
+|1|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Greedy/1.LongestPalindrome.cpp)|:green_square:
+|2|[Array Partition](https://leetcode.com/problems/array-partition/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Greedy/2.ArrayPartition.cpp)|:green_square:
 
 
 
@@ -176,7 +177,9 @@
 
 |  #  |      Title     |   Code   | Difficulty                    
 |-----|----------------|----------|-------------
-|1|
+|1|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/1.BinaryTreePaths.cpp)|:green_square:
+|2|[Binary Watch](https://leetcode.com/problems/binary-watch/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/2.BinaryWatch.cpp)|:green_square:
+|3|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/3.SumofAllSubsetXORTotals.cpp)|:green_square:
 
 
 ## Dynamic Programming
