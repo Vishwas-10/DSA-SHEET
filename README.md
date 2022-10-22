@@ -170,6 +170,9 @@
 |-----|----------------|----------|-------------
 |1|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Greedy/1.LongestPalindrome.cpp)|:green_square:
 |2|[Array Partition](https://leetcode.com/problems/array-partition/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Greedy/2.ArrayPartition.cpp)|:green_square:
+|3|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Greedy/3.ContainerWithMostWater.cpp)|:orange_square:
+|4|[Jump Game](https://leetcode.com/problems/jump-game/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Greedy/4.JumpGame.cpp)|:orange_square:
+|5|[Gas Station](https://leetcode.com/problems/gas-station/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Greedy/5.GasStation.cpp)|:orange_square:
 
 
 
@@ -180,6 +183,8 @@
 |1|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/1.BinaryTreePaths.cpp)|:green_square:
 |2|[Binary Watch](https://leetcode.com/problems/binary-watch/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/2.BinaryWatch.cpp)|:green_square:
 |3|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/3.SumofAllSubsetXORTotals.cpp)|:green_square:
+|4|[Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/4.MaximumRowsCoveredbyColumns.cpp)|:orange_square:
+|5|[Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/5.FairDistributionofCookies.cpp)|:orange_square:
 
 
 ## Dynamic Programming
