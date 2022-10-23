@@ -185,6 +185,12 @@
 |3|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/3.SumofAllSubsetXORTotals.cpp)|:green_square:
 |4|[Maximum Rows Covered by Columns](https://leetcode.com/problems/maximum-rows-covered-by-columns/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/4.MaximumRowsCoveredbyColumns.cpp)|:orange_square:
 |5|[Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/5.FairDistributionofCookies.cpp)|:orange_square:
+|6|[Maximum Good People Based on Statements](https://leetcode.com/problems/maximum-good-people-based-on-statements/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/6.MaximumGoodPeopleBasedonStatements.cpp)|:red_square:
+|7|[Maximum Path Quality of a Graph](https://leetcode.com/problems/maximum-path-quality-of-a-graph/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/7.MaximumPathQualityofaGraph.cpp)|:red_square:
+|8|[Number of Valid Move Combinations On Chessboard](https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/8.NumberofValidMoveCombinationsOnChessboard
+.py)|:red_square:
+|9|[Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/9.MaximizeScoreAfterNOperations.cpp)|:red_square:
+|10|[Find Minimum Time to Finish All Jobs](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/) |[code](https://github.com/Vishwas-10/DSA-SHEET/tree/main/Backtracking/10.FindMinimumTimetoFinishAllJobs.cpp)|:red_square:
 
 
 ## Dynamic Programming
