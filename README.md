@@ -151,7 +151,7 @@
 
 |  #  |      Title     |   Code   | Difficulty                   
 |-----|----------------|----------|-------------
-|1|
+|1|[Is binary tree heap](https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1)|[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Heap/Is%20binary%20tree%20heap.cpp)|:green_square:
 
 
 
