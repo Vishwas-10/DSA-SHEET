@@ -57,7 +57,8 @@
 
 |  #  |      Title     |   Code   | Difficulty                   
 |-----|----------------|----------|-------------
-|1|
+|1| [Subarray with given sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions)|[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Arrays/Subarray%20with%20given%20sum.cpp)|:green_square:
+|2| [Missing number in array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions)|[code](https://github.com/Vishwas-10/DSA-SHEET/blob/main/Arrays/Missing%20number%20in%20array.cpp)|:green_square:
 
 
 
